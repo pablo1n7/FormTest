@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ClassTestCase",
+	"category" : "Form-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FormTest",
+	"type" : "normal"
+}
